@@ -1,0 +1,10 @@
+baseurl = "https://wangonya.com/"
+title = "Kinyanjui Wangonya"
+author = "Kinyanjui Wangonya"
+canonifyurls = true
+paginate = 8
+theme = "aether"
+
+[params]
+brand = "wangonya"
+description = "Blog by Kinyanjui Wangonya on Web/Software development with Javascript and Python"
