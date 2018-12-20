@@ -10,8 +10,11 @@ and if you've read [this post](https://github.com/andela/bestpractices/wiki/Elim
 on Andela best practices, you already know that one of the attributes that makes a programmer great is _laziness_.
 
 In an effort to improve my laziness, I put together these aliases on the git commands I use most to speed up my 
-gitflow. If you're on a mac or a linux machine, you can set them up in your `.bashrc` or `.bash_profile`. A basic familiarity 
-with the terminal is assumed so I won't go into how to do that 😊. Feel free to reach out to me though if you're having problems.
+gitflow. If you're on a mac or a linux machine, you can set them up in your `.bashrc` or `.bash_profile`. These files can be found in 
+your home directory (basically the default path that your terminal will be on when you open it. The dot means that they're hidden files so... 
+keep that in mind in case you're wondering why you're not seeing them. Running `ls -a` on the terminal should show you all the files in the directory, 
+then you can edit for example the `.bashrc` by running `vim .bashrc` or `nano .bashrc` or `gedit .bashrc` etc). A basic familiarity 
+with the terminal is assumed so I won't go much into it 😊. Feel free to reach out to me though if you're having problems. 
 
 ### Initialising a new git repository
 ```bash
@@ -33,7 +36,7 @@ So that instead of doing `git add file` you just do `ga file`
 
 ### Committing your changes
 ```bash
-alias gcm = 'git checkout -m'
+alias gcm = 'git commit -m'
 ```
 So that instead of doing `git checkout -m "commit message"` you just do `gcm "commit message"`
 
@@ -107,5 +110,7 @@ alias gcm = 'git branch -m'
 alias gm = 'git merge'
 alias gbd = 'git branch -d' #use -D for a forced delete
 ```
+
+Remember to run `source .bashrc`, `source .bash_profile` or `source .zshrc` when you're done adding your aliases. If no errors are displayed, you're good to go.
 
 ![the source](/img/source.png)
