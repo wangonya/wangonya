@@ -75,7 +75,7 @@ So that instead of doing `git checkout -b ft-branch` you just do `gcb ft-branch`
 #if you are on the branch you want to rename
 alias gbm = 'git branch -m'
 ```
-So that instead of doing `git branch -m bg-branch` you just do `gcm bg-branch`
+So that instead of doing `git branch -m bg-branch` you just do `gbm bg-branch`
 
 ### Merging a branch
 ```bash

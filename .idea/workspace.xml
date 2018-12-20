@@ -47,7 +47,7 @@
         <counts>
           <entry key="css" value="1" />
           <entry key="html" value="10" />
-          <entry key="md" value="3096" />
+          <entry key="md" value="3110" />
           <entry key="toml" value="108" />
         </counts>
       </usages-collector>
@@ -56,7 +56,7 @@
           <entry key="Bash" value="1" />
           <entry key="CSS" value="1" />
           <entry key="HTML" value="10" />
-          <entry key="Markdown" value="3095" />
+          <entry key="Markdown" value="3109" />
           <entry key="TOML file" value="108" />
         </counts>
       </usages-collector>
@@ -68,8 +68,8 @@
         <entry file="file://$PROJECT_DIR$/content/post/git-aliases.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-604">
-                <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+              <first_editor relative-caret-position="239">
+                <caret line="77" column="66" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
@@ -219,15 +219,16 @@
       <option name="presentableId" value="Default" />
       <updated>1545237068576</updated>
       <workItem from="1545237072294" duration="2470000" />
-      <workItem from="1545240381600" duration="7653000" />
+      <workItem from="1545240381600" duration="7902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10123000" />
+    <option name="totallyTimeSpent" value="10372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19097957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -440,8 +441,8 @@
     <entry file="file://$PROJECT_DIR$/content/post/git-aliases.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-604">
-            <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+          <first_editor relative-caret-position="239">
+            <caret line="77" column="66" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>
