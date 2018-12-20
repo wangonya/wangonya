@@ -38,7 +38,7 @@ So that instead of doing `git add file` you just do `ga file`
 ```bash
 alias gcm = 'git commit -m'
 ```
-So that instead of doing `git checkout -m "commit message"` you just do `gcm "commit message"`
+So that instead of doing `git commit -m "commit message"` you just do `gcm "commit message"`
 
 ### Pushing your changes to a remote origin
 ```bash
@@ -73,7 +73,7 @@ So that instead of doing `git checkout -b ft-branch` you just do `gcb ft-branch`
 ### Renaming a branch
 ```bash
 #if you are on the branch you want to rename
-alias gcm = 'git branch -m'
+alias gbm = 'git branch -m'
 ```
 So that instead of doing `git branch -m bg-branch` you just do `gcm bg-branch`
 
@@ -100,13 +100,13 @@ should look:
 alias gi = 'git init'
 alias gs = 'git status'
 alias ga = 'git add'
-alias gcm = 'git checkout -m'
+alias gcm = 'git commit -m'
 alias gpso = 'git push origin'
 alias gplo = 'git pull origin'
 alias gb = 'git branch'
 alias gc = 'git checkout'
 alias gcb = 'git checkout -b'
-alias gcm = 'git branch -m'
+alias gbm = 'git branch -m'
 alias gm = 'git merge'
 alias gbd = 'git branch -d' #use -D for a forced delete
 ```
