@@ -112,5 +112,3 @@ alias gbd = 'git branch -d' #use -D for a forced delete
 ```
 
 Remember to run `source .bashrc`, `source .bash_profile` or `source .zshrc` when you're done adding your aliases. If no errors are displayed, you're good to go.
-
-![the source](/img/source.png)

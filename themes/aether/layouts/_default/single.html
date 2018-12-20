@@ -10,10 +10,14 @@
         </header>
         {{ if isset .Params "featuredimage" }}
         <figure class="post-figure">
-          <img src="{{ .Site.BaseURL }}/{{.Params.featuredimage }}">
+          <img src="{{ .Site.BaseURL }}/{{.Params.featuredimage }}" alt="featured image">
         </figure>
         {{ end }}
         {{ .Content }}
+        <figure class="post-figure">
+          <img src="/img/source.png" alt="featured image">
+        </figure>
+        {{ partial "share.html" . }}
       </article>
     </main>
     <nav class="end-nav side-padding">
