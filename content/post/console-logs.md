@@ -3,7 +3,7 @@ title: Better console.logs
 date: 2018-10-18
 description: Better console.logs
 featuredImage: /img/console.jpg
-categories: [javascript]
+categories: [javascript, devtips]
 ---
 If you work with javascript a lot, you probably often need to use `console.log()` to output some info as you go along.
 
