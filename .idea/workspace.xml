@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f911a7b3-67d8-4c2f-9cdd-33ecad231cd0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/aether-features.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/array-iteration.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/array-iteration.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/arrow-this.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/arrow-this.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/console-logs.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/console-logs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/finding-array.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/finding-array.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/git-aliases.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/git-aliases.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/heapq.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/heapq.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/js-sort-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/js-sort-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/js-sort-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/js-sort-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/lookaheads-lookbehinds.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/lookaheads-lookbehinds.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/norris-cli.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/norris-cli.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cocoa" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -108,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="307">
+              <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -119,7 +105,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="120">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -222,58 +208,6 @@
               <item name="wangonya" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -325,12 +259,12 @@
       <workItem from="1545891821897" duration="253000" />
       <workItem from="1546501469312" duration="10000" />
       <workItem from="1546794708966" duration="155000" />
-      <workItem from="1546801515017" duration="1586000" />
+      <workItem from="1546801515017" duration="2256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21761000" />
+    <option name="totallyTimeSpent" value="22431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -575,7 +509,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="120">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -583,8 +517,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="307">
+          <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
         </state>
       </provider>
     </entry>
