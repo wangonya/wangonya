@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f911a7b3-67d8-4c2f-9cdd-33ecad231cd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/aether-features.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/array-iteration.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/array-iteration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/arrow-this.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/arrow-this.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/console-logs.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/console-logs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/finding-array.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/finding-array.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/git-aliases.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/git-aliases.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/heapq.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/heapq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/js-sort-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/js-sort-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/js-sort-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/js-sort-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/lookaheads-lookbehinds.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/lookaheads-lookbehinds.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/norris-cli.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/norris-cli.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,44 +32,46 @@
     <session id="-857941943">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="23" />
+          <entry key="html" value="24" />
           <entry key="jpg" value="7" />
-          <entry key="md" value="47" />
+          <entry key="md" value="49" />
           <entry key="norris-cli" value="1" />
-          <entry key="toml" value="4" />
+          <entry key="toml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="23" />
+          <entry key="HTML" value="24" />
           <entry key="Image" value="7" />
-          <entry key="Markdown" value="47" />
+          <entry key="Markdown" value="49" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="TOML file" value="4" />
+          <entry key="TOML file" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="10" />
           <entry key="html" value="145" />
-          <entry key="md" value="4537" />
+          <entry key="md" value="4602" />
           <entry key="norris-cli" value="7" />
-          <entry key="toml" value="108" />
+          <entry key="toml" value="246" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -62,9 +79,14 @@
           <entry key="Bash" value="1" />
           <entry key="CSS" value="10" />
           <entry key="HTML" value="145" />
-          <entry key="Markdown" value="4536" />
+          <entry key="Markdown" value="4601" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="TOML file" value="108" />
+          <entry key="TOML file" value="246" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="PrettierLanguageServiceImpl" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -72,11 +94,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/post/heapq.md">
+        <entry file="file://$PROJECT_DIR$/content/blog/git-aliases.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="45">
-                <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="20" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,10 +106,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/post/norris-cli.md">
+        <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
+            <state relative-caret-position="780">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -126,7 +160,6 @@
         <option value="$PROJECT_DIR$/themes/aether/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/themes/aether/layouts/partials/home-card.html" />
         <option value="$PROJECT_DIR$/content/post/aether-features.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/content/post/2018-08-28-array-iteration.md" />
         <option value="$PROJECT_DIR$/content/post/2018-10-04-dart-string.md" />
         <option value="$PROJECT_DIR$/content/post/2018-08-27-arrow-this.md" />
@@ -147,9 +180,10 @@
         <option value="$PROJECT_DIR$/themes/aether/layouts/partials/share.html" />
         <option value="$PROJECT_DIR$/themes/aether/layouts/_default/single.html" />
         <option value="$PROJECT_DIR$/themes/aether/layouts/_default/list.html" />
-        <option value="$PROJECT_DIR$/content/about.md" />
         <option value="$PROJECT_DIR$/content/post/norris-cli" />
         <option value="$PROJECT_DIR$/content/post/norris-cli.md" />
+        <option value="$PROJECT_DIR$/content/about.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -171,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,67 +220,65 @@
             <path>
               <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangonya" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangonya" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangonya" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aether" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aether" type="462c0819:PsiDirectoryNode" />
+              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangonya" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aether" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="_default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aether" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aether" type="462c0819:PsiDirectoryNode" />
+              <item name="cocoa" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangonya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangonya" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="aether" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,15 +323,17 @@
       <workItem from="1545378309145" duration="4814000" />
       <workItem from="1545640001416" duration="2223000" />
       <workItem from="1545891821897" duration="253000" />
+      <workItem from="1546501469312" duration="10000" />
+      <workItem from="1546794708966" duration="155000" />
+      <workItem from="1546801515017" duration="1586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20008000" />
+    <option name="totallyTimeSpent" value="21761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19097957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -346,7 +379,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/content/post/aether-theme.md" />
-    <entry file="file://$PROJECT_DIR$/content/post/aether-features.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/aether-features.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
@@ -356,7 +389,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/finding-array.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/finding-array.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
@@ -366,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/lookaheads-lookbehinds.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/lookaheads-lookbehinds.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
@@ -377,7 +410,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/post/2018-10-04-dart-string.md" />
-    <entry file="file://$PROJECT_DIR$/content/post/js-sort-2.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/js-sort-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="75">
@@ -387,13 +420,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="121" column="57" selection-start-line="121" selection-start-column="57" selection-end-line="121" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.gitignore" />
     <entry file="file://$PROJECT_DIR$/netlify.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -401,14 +428,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/console-logs.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/console-logs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
@@ -418,7 +438,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/array-iteration.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/array-iteration.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -432,16 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="479" column="1" selection-start-line="479" selection-start-column="1" selection-end-line="479" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/git-aliases.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="417">
-            <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -465,18 +475,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/aether/layouts/partials/share.html" />
-    <entry file="file://$PROJECT_DIR$/content/post/arrow-this.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/arrow-this.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
@@ -486,21 +486,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/js-sort-1.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/js-sort-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
             <caret selection-end-line="6" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -534,7 +524,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/heapq.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/heapq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="45">
@@ -544,10 +534,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/norris-cli.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/norris-cli.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/git-aliases.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/cocoa/exampleSite/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/cocoa/layouts/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>

@@ -1,10 +1,52 @@
 baseurl = "https://wangonya.com/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+layoutdir           = "layouts"
+publishdir          = "public"
+theme               = "cocoa"
 title = "Kinyanjui Wangonya"
 author = "Kinyanjui Wangonya"
-canonifyurls = true
-paginate = 8
-theme = "aether"
+pygmentsuseclasses  = true
+
+[permalinks]
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
 
 [params]
-brand = "wangonya"
-description = "Blog by Kinyanjui Wangonya on Web/Software development with Javascript and Python"
+include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
+latestpostscount       = 3                             # how many posts to display on the home page
+i18n_flags             = false                         # whether to display small country flags for available translations
+author                 = "Kinyanjui Wangonya"
+cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+description = "Kinyanjui Wangonya -- personal website and blog on Web/Software development with Javascript and Python"
+email                  = "kwangonya@gmail.com"
+faviconfile            = "img/favicon.ico"
+github                 = "//github.com/wangonya"
+lang                   = "en"
+linkedin               = "//linkedin.com/in/wangonya"
+noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
+selfintro              = "#javascript #python software developer 👨🏾‍💻"                            # appears in the site header when set to a non-empty string
+twitter                = "//twitter.com/wang0nya"
+
+
+highlightjs            = true
+# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
+# highlightjsStyle     = "darcula"
+
+avatar                 = "img/me.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)

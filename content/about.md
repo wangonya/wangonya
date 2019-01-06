@@ -5,7 +5,4 @@ displayInMenu = true
 displayInList = false
 +++
 
-Hi 👋🏽 I'm Wangonya.
-
-[Twitter](https://twitter.com/wang0nya) | [Dev.to](https://dev.to/wangonya) | [LinkedIn](https://www.linkedin.com/in/wangonya/) | [Github](https://github.com/wangonya) | [Email](mailto:kwangonya@gmail.com)
-
+Hi 👋🏽 I'm Wangonya, a Software Developer working mostly with python and javascript.
