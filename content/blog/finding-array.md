@@ -1,9 +1,7 @@
 ---
 title: Finding an element in the array (the ES5, ES6 and ES7 way)
 date: 2018-08-26
-description: Different ways of finding an element in an array
-featuredImage: /img/array.jpg
-categories: [javascript]
+tags: [javascript]
 ---
 This'll be a quick one.
 

@@ -1,9 +1,7 @@
 ---
 title: Python's 'heapq' module
 date: 2018-12-21
-description: Finding the largest and smallest items in a collection with Python's 'heapq' module
-featuredImage: /img/hq.jpg
-categories: [python]
+tags: [python]
 ---
 Often when working with collections of data, you may want to find the smallest or largest item. It's easy enough to write a function 
 that iterates through the items and returns the smallest or largest one, or use the builtin `min()`, `max()`, or `sorted()` functions. 
