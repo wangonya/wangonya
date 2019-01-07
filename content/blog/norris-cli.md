@@ -1,9 +1,7 @@
 ---
 title: norris-cli
 date: 2018-12-27T09:24:39+03:00
-description: A simple python cli app that brightens up your day with Chuck Norris jokes from chucknorris.io
-featuredImage: /img/norris.jpg
-categories: [python]
+tags: [python]
 ---
 Best feeling I've had this year: seeing something I did listed on PyPi 😊 🎉
 

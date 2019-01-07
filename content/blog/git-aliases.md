@@ -1,9 +1,7 @@
 ---
 title: Speeding up your gitflow with aliases
 date: 2018-12-20
-description: Shortening those common git commands just a little bit to make your workflow that much faster
-featuredImage: /img/gitalias.jpg
-categories: [git, devtips]
+tags: [git, devtips]
 ---
 Sometimes it gets boring to have to write those long git commands over and over again, 
 and if you've read [this post](https://github.com/andela/bestpractices/wiki/Eliminate-Stupid-Mental-Effort-(ESME)) 

@@ -1,9 +1,7 @@
 ---
 title: Sorting Algorithms with Javascript (Part 2)
 date: 2018-11-04
-description: Sorting Algorithms with Javascript - Part 2 (Quick sort, Heap sort, Counting sort)
-featuredImage: /img/sort2.jpg
-categories: [javascript]
+tags: [javascript]
 ---
 I'm going to show Javascript implementations of three more sorting algorithms:
 * Quick sort
