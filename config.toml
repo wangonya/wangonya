@@ -41,7 +41,7 @@ github                 = "//github.com/wangonya"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/wangonya"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "#javascript #python software developer 👨🏾‍💻"                            # appears in the site header when set to a non-empty string
+selfintro              = "“Be curious. Read widely. Try new things. I think a lot of what people call intelligence boils down to curiosity.” - Aaron Swartz"                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/wang0nya"
 
 
