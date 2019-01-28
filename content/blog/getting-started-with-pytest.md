@@ -10,18 +10,24 @@ In this series, I'll be exploring the cool features that pytest offers to help m
 
 ## Preparing your python environment
 Let's set up our testing environment with `virtualenv`. We'll be working with Python 3. `cd` into your working directory and create a new virtual environment:
+
 ```shell
 python3 -m venv env
 ```
+
 Activate the virtual environment:
+
 ```shell
 source env/bin/activate
 ```
 ### Installing `pytest`
+
 ```shell
 pip install pytest
 ```
+
 That's all you need to do to get pytest ready. You can check the installed version by running:
+
 ```shell
 pytest --version
 ```
@@ -39,7 +45,13 @@ def test_hello():
     assert hello_world("World!") == "Hello World!"	
 ```
 
+You'll notice that our test function name begins with the word _test_. That's how pytest discoveres test methods. Also, :
+
+* Test files should be named `test_<something>.py` or `<something>_test.py`
+* Test classes should be named `Test<Something>`
+
 Running `pytest hello.py` should return:
+
 ```shell
 collected 1 item
 hello.py F                         [100%]
@@ -54,6 +66,7 @@ hello.py:6: AssertionError
 ```
 
 Pytest shows why the test failed: `AssertionError: assert None == 'Hello World!’`. Obviously, we have no code in our hello function so let’s fix that.
+
 ```python
 def hello_world(name):
     return "Hello {}".format(name)
@@ -63,6 +76,7 @@ def test_hello():
 ```
 
 Running `pytest hello.py` should now return:
+
 ```shell
 collected 1 item     
 hello.py .                       [100%]
