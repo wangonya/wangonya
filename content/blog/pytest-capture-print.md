@@ -1,6 +1,6 @@
 ---
 title: "Capturing print statements while debugging"
-date: 2019-01-29T23:06:29+03:00
+date: 2019-01-30T23:06:29+03:00
 description: "Python TDD with Pytest Part 3 -- Capturing print statements while debugging"
 tags: [python, tdd, pytest-series]
 ---
