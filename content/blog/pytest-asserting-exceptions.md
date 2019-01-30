@@ -2,8 +2,9 @@
 title: "Asserting Exceptions with Pytest"
 date: 2019-01-29T05:15:40+03:00
 description: "Python TDD with Pytest Part 2 -- Asserting Exceptions"
-tags: [python, tdd]
+tags: [python, tdd, pytest-series]
 ---
+
 First time I had someone review my pull requests, she was pretty strict on tests. I couldn't merge if the tests were failing, of course. But I also couldn't merge if coverage had decreased by even 1%. TDD was still new to me so maintaining coverage was a challenge since I was only testing the bare minimum I could. I had to find out how to make my tests more robust and ensure as much of my code was tested as possible. One area that I wasn't really sure how to test was the custom exceptions I had written. Here's an example:
 
 ```python
@@ -44,7 +45,7 @@ The `check_email_format` method takes in an email and checks that it matches the
 Using `pytest.raises` in a `with` block as a context manager, we can check that an exception is actually raised if an invalid email is given. Running the tests on the code as it is above should fail:
 
 ```shell
-collected 1 item                                                                                                                                                                                       
+collected 1 item
 login.py F                [100%]
 
 ==================== FAILURES ========================
@@ -80,7 +81,7 @@ def test_email_exception():
 Run your test: `pytest login.py`:
 
 ```shell
-collected 1 item                         
+collected 1 item
 
 login.py .              [100%]
 

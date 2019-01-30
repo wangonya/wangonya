@@ -2,13 +2,15 @@
 title: "Python TDD with Pytest  -- Getting Started"
 date: 2019-01-28T08:15:40+03:00
 description: "Python TDD with Pytest Part 1 -- Getting Started"
-tags: [python, tdd]
+tags: [python, tdd, pytest-series]
 ---
-Test-Driven Development is great. If you're a Pythonista, it gets even better with pytest - a framework that makes building simple and scalable tests easy. 
+
+Test-Driven Development is great. If you're a Pythonista, it gets even better with pytest - a framework that makes building simple and scalable tests easy.
 
 In this series, I'll be exploring the cool features that pytest offers to help make testing Python code a breeze.
 
 ## Preparing your python environment
+
 Let's set up our testing environment with `virtualenv`. We'll be working with Python 3. `cd` into your working directory and create a new virtual environment:
 
 ```shell
@@ -20,6 +22,7 @@ Activate the virtual environment:
 ```shell
 source env/bin/activate
 ```
+
 ### Installing `pytest`
 
 ```shell
@@ -33,7 +36,8 @@ pytest --version
 ```
 
 ## Creating your first test
-Say we need to create an app that says hello to the name you give it when it runs (I know, very original 😅). 
+
+Say we need to create an app that says hello to the name you give it when it runs (I know, very original 😅).
 
 ```python
 # simple hello world test
@@ -42,13 +46,13 @@ def hello_world(name):
     pass
 
 def test_hello():
-    assert hello_world("World!") == "Hello World!"	
+    assert hello_world("World!") == "Hello World!"
 ```
 
 You'll notice that our test function name begins with the word _test_. That's how pytest discoveres test methods. Also, :
 
-* Test files should be named `test_<something>.py` or `<something>_test.py`
-* Test classes should be named `Test<Something>`
+- Test files should be named `test_<something>.py` or `<something>_test.py`
+- Test classes should be named `Test<Something>`
 
 Running `pytest hello.py` should return:
 
@@ -78,7 +82,7 @@ def test_hello():
 Running `pytest hello.py` should now return:
 
 ```shell
-collected 1 item     
+collected 1 item
 hello.py .                       [100%]
 
 ==================== 1 passed in 0.04 seconds ======================
