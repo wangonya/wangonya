@@ -59,7 +59,7 @@ Square root of 2
 Math.SQRT2; // 1.4142135623730951
 ```
 
-Infinity (Don't know why anyone would need this, but hey 🤷🏾‍♂️)
+Infinity
 
 ```javascript
 Infinity; // Infinity
