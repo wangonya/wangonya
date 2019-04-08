@@ -187,9 +187,9 @@ admin.site.register(Todo)
 
 That's it! Now run the server and go to `http://127.0.0.1:8000/admin`. Log in with the details you registered for the superuser above to add your todos.
 
-![dj-admin](https://ibb.co/ydQMT7b)
+![dj-admin](https://thepracticaldev.s3.amazonaws.com/i/x6voqtudx91zc4mnvede.png)
 
-![dj-add](https://ibb.co/Vt9TmkF)
+![dj-add](https://thepracticaldev.s3.amazonaws.com/i/pmorh3sdlnknzfo1h2c2.png)
 
 You can retrieve the todos created via a rest client via the endpoints
 
