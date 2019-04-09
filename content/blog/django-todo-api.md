@@ -38,7 +38,7 @@ todoapi/
     wsgi.py
 ```
 
-## Databse setup
+## Database setup
 
 To keep things simple, we'll use the SQlite database, so we don't have to install anything since it comes with Python. In addition, that's already setup for us in `todoapi/settings.py`. Have a look at the code and you should see something similar to this:
 
