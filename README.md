@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangonya
 - 👀 I’m interested in all things backend (with .py)
-- 🌱 I’m currently learning Architecture Patterns with Python and working with NoSql databses (MongoDB)
+- 🌱 I’m currently learning Architecture Patterns with Python and working with NoSql databses (MongoDB). More info at [https://wangonya.com/now/](https://wangonya.com/now/)
 - 📫 How to reach me: kwangonya@gmail.com
 
 <!---
