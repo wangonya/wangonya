@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangonya
 - 👀 I’m interested in all things backend (with .py)
-- 🌱 I’m currently learning Go. More info at [https://wangonya.com/now/](https://wangonya.com/now/)
+- 🌱 What I'm doing now: [https://wangonya.com/now/](https://wangonya.com/now/)
 - 📫 How to reach me: kwangonya@gmail.com
 
 <!---
